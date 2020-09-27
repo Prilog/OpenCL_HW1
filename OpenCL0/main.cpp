@@ -1,3 +1,4 @@
+// Device should support 512 work item size
 #include <stdio.h>
 #include <stdlib.h>
 
